@@ -1,0 +1,2 @@
+C:/Informatik/6.Semester/MobileApplikationen/first_exam/android/app/.cxx/Debug/368664f2/x86/CMakeFiles/edit_cache.dir
+C:/Informatik/6.Semester/MobileApplikationen/first_exam/android/app/.cxx/Debug/368664f2/x86/CMakeFiles/rebuild_cache.dir
